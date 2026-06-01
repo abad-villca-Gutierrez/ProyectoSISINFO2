@@ -1,1 +1,0 @@
-from interfaz.app import *
